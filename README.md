@@ -14,6 +14,8 @@ This project focuses on **responsive design**, **multi-screen navigation**, and 
 ## 📸 App Preview
 
 > _Home dashboard showing wallet balance, quick actions, services, and bottom navigation._
+> 
+
 Desktop size:
 <img src="lib/Sizes/Deskop_size.png" width= "500">
 
