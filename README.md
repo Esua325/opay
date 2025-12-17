@@ -15,7 +15,11 @@ This project focuses on **responsive design**, **multi-screen navigation**, and 
 
 > _Home dashboard showing wallet balance, quick actions, services, and bottom navigation._
 
-<img src="lib/Sizes" width= "450"
+<img src="lib/Sizes/Deskop_size.png" width= "600">
+
+<img src="lib/Sizes/Mobile_size.png" width= "600">
+
+<img src="lib/Sizes/Tablet_size.png" width="600">
 
 ---
 
