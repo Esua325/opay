@@ -18,10 +18,14 @@ This project focuses on **responsive design**, **multi-screen navigation**, and 
 
 Desktop size:
 <img src="lib/Sizes/Deskop_size.png" width= "350" height= "75%">
-
+<br>
+<br>
+<br>
 Mobile size:
 <img src="lib/Sizes/Mobile_size.png" width= "350" height= "65%">
-
+<br>
+<br>
+<br>
 Tablet size:
 <img src="lib/Sizes/Tablet_size.png" width="350" height= "75%">
 
